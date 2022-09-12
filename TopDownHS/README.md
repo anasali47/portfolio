@@ -2,7 +2,7 @@
 Procedural-Generated Level using Cellular automata algorithm<br/>
 
 
-https://user-images.githubusercontent.com/73634279/189741269-947f71e3-0a16-4831-914e-accb6b0f6efe.mp4
+https://user-images.githubusercontent.com/73634279/189749899-2a77d5e9-b34c-41b9-aac8-04d490d909f3.mp4
 
 
 <br/><br/>
