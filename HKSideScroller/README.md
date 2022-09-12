@@ -14,10 +14,6 @@ Bossfight
 ![HK3](https://raw.githubusercontent.com/anasali47/portfolio/main/HKSideScroller/Images/HK3.gif)
 <br/><br/>
 60 FPS Video
-<br/><br/
-
-
-
-
+<br/><br/>
 https://youtu.be/X_DR9K0v_IM
 
