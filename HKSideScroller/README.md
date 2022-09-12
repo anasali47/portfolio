@@ -15,10 +15,9 @@ Bossfight
 <br/><br/>
 60 FPS Video
 <br/><br/>
-https://youtu.be/X_DR9K0v_IM
 
 
-https://user-images.githubusercontent.com/73634279/189640762-d64baf74-d426-497c-8c0c-96c750e871a3.mp4
+https://user-images.githubusercontent.com/73634279/189642172-e46e59e0-9258-4101-a662-b5c5771a8959.mp4
 
 
 
