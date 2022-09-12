@@ -11,3 +11,7 @@ Here's the result
 Episode 0-100000 of training
 <br/><br/>
 ![mlAgent2](https://raw.githubusercontent.com/anasali47/portfolio/main/MLAgentAI/Images/MLagentE0.gif)
+<br/><br/>
+After 5000000 episodes of training
+<br/><br/>
+![mlAgent3](https://raw.githubusercontent.com/anasali47/portfolio/main/MLAgentAI/Images/MLAgentTrained.gif)
