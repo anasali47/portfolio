@@ -1,4 +1,6 @@
-[ML-Agent AI (Reinforcement Learning)](MLAgentAI)<br/><br/>
-[Top Down Hack and Slash](TopDownHS)<br/><br/>
-[Side Scroller Demo](HKSideScroller)<br/><br/>
-[Dispatcher Route Planner](DispatchRoutePlanner)<br/><br/>
+#List of Projects
+<br/><br/>
+1. [ML-Agent AI (Reinforcement Learning)](MLAgentAI)<br/>
+2. [Top Down Hack and Slash](TopDownHS)<br/>
+3. [Side Scroller Demo](HKSideScroller)<br/>
+4. [Dispatcher Route Planner](DispatchRoutePlanner)<br/>
