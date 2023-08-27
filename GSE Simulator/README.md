@@ -24,4 +24,22 @@ Citybus Simulator bus stand pick and drop off system.<br/>
 https://github.com/anasali47/portfolio/assets/73634279/34ca3a0a-63c3-4993-9aea-4736fea6f55f
 
 
+<br/><br/>
+
+Freedrive Defensive Driving<br/>
+<br/><br/>
+
+Uploading freedrive pedestrian.mp4…
+
+<br/><br/>
+
+https://github.com/anasali47/portfolio/assets/73634279/f96b318b-3216-45a7-872f-001f7d9034da
+
+<br/><br/>
+
+
+https://github.com/anasali47/portfolio/assets/73634279/dd8d4b0c-8149-46ca-a792-f87367a242a9
+
+
+
 
